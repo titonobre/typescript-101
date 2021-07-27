@@ -1,0 +1,9 @@
+{
+    "title": "TypeScript 101",
+    "theme": "black",
+    "preprocessor": "utils/preprocessor.js",
+    "revealOptions": {
+        "transition": "slide",
+        "progress": true
+    }
+}

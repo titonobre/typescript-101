@@ -8,6 +8,7 @@
   "license": "ISC",
   "scripts": {
     "start": "reveal-md notes.md --port 8080 --watch",
+    "build": "reveal-md notes.md --static --static-dirs=assets",
     "prepare": "husky install"
   },
   "dependencies": {

@@ -1,2 +1,2 @@
 # typescript-101
-some notes around typescript basics
+some [notes](./notes.md) around typescript basics

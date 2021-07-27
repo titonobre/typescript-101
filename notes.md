@@ -438,7 +438,7 @@ class Person {
 ```typescript
 class Person {
   public title: string;
-  public name: string;
+  protected name: string;
   private age: number;
 
   constructor(name: string, age: number, title: string) {
@@ -827,7 +827,7 @@ tsc index.ts # compiles index.ts to index.js
 `ts-node` is a TypeScript execution engine and REPL for Node.js.
 
 ```sh
-npm install -g typescript
+npm install -g ts-node
 ```
 
 ```sh
